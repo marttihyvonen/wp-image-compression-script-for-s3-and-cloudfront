@@ -4,7 +4,9 @@ Creates wp-cli script for optimizing images in S3 &amp; Cloudfront environment u
 ## things you need to do & have before this script works ##
 
 ### plugins ###
-
+Plugins needed for this script to run:
+Amazon Web Services https://wordpress.org/plugins/amazon-web-services/
+WP Offload S3 Lite https://wordpress.org/plugins/amazon-s3-and-cloudfront/
 
 ### envs ###
 AWS_ACCESS_KEY_ID
