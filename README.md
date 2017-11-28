@@ -9,6 +9,6 @@ wp images compress single [attachment_id]
 
 wp images compress_all_images
 
-#running wp-cli scripts in heroku & bedrock-on-heroku environment
+# running wp-cli scripts in heroku & bedrock-on-heroku environment
 
 heroku run --app [app_name] ./bedrock-on-heroku/vendor/bin/wp images status
