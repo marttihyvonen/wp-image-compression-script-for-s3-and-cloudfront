@@ -10,10 +10,15 @@ WP Offload S3 Lite https://wordpress.org/plugins/amazon-s3-and-cloudfront/
 
 ### envs ###
 AWS_ACCESS_KEY_ID
+
 AWS_SECRET_ACCESS_KEY
+
 AWS_BUCKET
+
 AWS_REGION
+
 CLOUDFRONT_DISTRIBUTION
+
 TINYPNG_API_KEY
 
 ## commands ###
